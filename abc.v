@@ -1,5 +1,10 @@
 
-
+Host github.com
+User 2365815516@qq.com
+Hostname ssh.github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+Port 443
 
 
 module usart_rx (
